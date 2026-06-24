@@ -22,7 +22,7 @@ A transposition cipher that rearranges the plaintext characters in a zigzag patt
 ### Combined Mode
 Applies both algorithms sequentially — the message is first encrypted with one algorithm, then the result is passed through the other. This demonstrates the concept of layered encryption for enhanced security.
 
-### Sreenshots 
+## Sreenshots 
 
 <img alt="photo_1_2026-06-24_04-39-03" src="https://github.com/user-attachments/assets/69019e86-6492-4254-8e03-db86c8cd707e" width = "300" height = "300" /><br>
 <img alt="photo_3_2026-06-24_04-39-03" src="https://github.com/user-attachments/assets/3d5b7892-3024-47a7-af2c-e2604b23f6f9" width = "300" height = "300" /><br>
